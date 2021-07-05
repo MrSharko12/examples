@@ -1,6 +1,6 @@
 {
   "generator": {
-    "type": "minecraft:noise",
+    "type": "minecraft:noise1",
     "seed": -1464245863,
     "biome_source": {
       "type": "minecraft:vanilla_layered",
